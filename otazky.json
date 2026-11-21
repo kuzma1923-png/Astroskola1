@@ -1,0 +1,466 @@
+[
+  {
+    "id": 1,
+    "cat": "Slnečná sústava",
+    "q": "Prečo má Venuša vyššiu priemernú povrchovú teplotu než Merkúr?",
+    "a": [
+      "Je bližšie k Slnku",
+      "Má veľmi hustú atmosféru so silným skleníkovým efektom",
+      "Má väčšie jadro",
+      "Je stále vulkanicky aktívna"
+    ],
+    "c": 1,
+    "why": "Hustá atmosféra Venuše bohatá na oxid uhličitý zadržiava teplo veľmi účinným skleníkovým efektom. Merkúr má naopak len veľmi riedku exosféru.",
+    "src": [
+      [
+        "NASA – Venus",
+        "https://science.nasa.gov/venus/"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "cat": "Slnečná sústava",
+    "q": "Ktorý jav vysvetľuje retrográdne slučky planét na oblohe pri pohľade zo Zeme?",
+    "a": [
+      "Planéta na chvíľu obráti smer obehu",
+      "Relatívny pohyb Zeme a planéty na ich obežných dráhach",
+      "Zmena rotácie planéty",
+      "Zemska atmosféra láme svetlo"
+    ],
+    "c": 1,
+    "why": "Retrográdny pohyb je zdanlivý. Vzniká zmenou vzájomnej polohy Zeme a planéty, nie skutočným obrátením jej obehu okolo Slnka.",
+    "src": [
+      [
+        "NASA Solar System",
+        "https://science.nasa.gov/solar-system/"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "cat": "Exoplanéty",
+    "q": "Čo spôsobuje pokles jasnosti hviezdy pri tranzitnej metóde objavovania exoplanét?",
+    "a": [
+      "Hviezda sa na chvíľu vypne",
+      "Planéta prejde pred diskom hviezdy a zakryje časť jej svetla",
+      "Planéta odrazí svetlo od Zeme",
+      "Hviezda zmení spektrálnu triedu"
+    ],
+    "c": 1,
+    "why": "Pri tranzite planéta prechádza pred hviezdou z nášho pohľadu. Miera poklesu jasnosti súvisí najmä s pomerom plôch planéty a hviezdy.",
+    "src": [
+      [
+        "NASA Exoplanet Exploration",
+        "https://science.nasa.gov/exoplanets/"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "cat": "Exoplanéty",
+    "q": "Ktorá vlastnosť svetelnej krivky najviac pomáha odlíšiť pravidelný tranzit od náhodného poklesu jasnosti?",
+    "a": [
+      "Pravidelné opakovanie poklesov",
+      "Farba oblohy",
+      "Poloha Polárky",
+      "Teplota ďalekohľadu"
+    ],
+    "c": 0,
+    "why": "Opakujúce sa poklesy v pravidelných intervaloch sú typickým znakom obežnej periódy tranzitujúcej planéty. Samotný signál však treba preveriť, napríklad pre zákrytovú dvojhviezdu.",
+    "src": [
+      [
+        "NASA Exoplanet Archive",
+        "https://exoplanetarchive.ipac.caltech.edu/"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "cat": "Hmloviny",
+    "q": "Do akej kategórie patrí hmlovina M27 – Činka?",
+    "a": [
+      "Zvyšok supernovy",
+      "Planetárna hmlovina",
+      "Emisná oblasť tvorby hviezd",
+      "Temná hmlovina"
+    ],
+    "c": 1,
+    "why": "M27 je planetárna hmlovina – rozpínajúca sa obálka plynu odvrhnutá vyvíjajúcou sa hviezdou nízkej až strednej hmotnosti.",
+    "src": [
+      [
+        "NASA – Messier 27",
+        "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/"
+      ],
+      [
+        "SIMBAD",
+        "https://simbad.cds.unistra.fr/"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "cat": "Hmloviny",
+    "q": "Čo je hlavnou príčinou žiarenia typickej emisnej hmloviny?",
+    "a": [
+      "Rozptyl svetla od prachu",
+      "Ionizácia plynu žiarením horúcich hviezd a následná rekombinácia",
+      "Odraz rádiových vĺn",
+      "Gravitačné šošovkovanie"
+    ],
+    "c": 1,
+    "why": "Energetické fotóny horúcich hviezd ionizujú plyn. Pri rekombinácii a prechodoch elektrónov medzi energetickými hladinami plyn vyžaruje charakteristické spektrálne čiary.",
+    "src": [
+      [
+        "NASA – Nebulae",
+        "https://science.nasa.gov/universe/"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "cat": "Galaxie",
+    "q": "Čo označuje pojem galaktické halo?",
+    "a": [
+      "Iba jasný stred galaxie",
+      "Rozsiahla oblasť okolo disku galaxie, kde sa nachádzajú hviezdy, guľové hviezdokopy a temná hmota",
+      "Plynový prstenec okolo planéty",
+      "Oblasť medzi Zemou a Mesiacom"
+    ],
+    "c": 1,
+    "why": "Halo je rozsiahla, približne sférická zložka galaxie obklopujúca jej disk. Obsahuje staré hviezdy, guľové hviezdokopy a významnú zložku temnej hmoty.",
+    "src": [
+      [
+        "ESA – Milky Way",
+        "https://www.esa.int/Science_Exploration/Space_Science/Gaia"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "cat": "Kozmonautika",
+    "q": "Aký bol hlavný účel programu Gemini pred letmi Apollo?",
+    "a": [
+      "Dopraviť človeka na Mars",
+      "Precvičiť techniky potrebné pre pilotované lety k Mesiacu vrátane spojenia lodí a výstupov do vesmíru",
+      "Postaviť ISS",
+      "Otestovať pristátie roveru na Venuši"
+    ],
+    "c": 1,
+    "why": "Program Gemini rozvíjal kľúčové schopnosti pre Apollo: dlhšie pobyty na obežnej dráhe, výstupy do otvoreného vesmíru a orbitálne stretnutie a spojenie kozmických lodí.",
+    "src": [
+      [
+        "NASA – Gemini",
+        "https://www.nasa.gov/missions/gemini/"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "cat": "Kozmonautika",
+    "q": "Ktorá časť zostavy Apollo pristávala na Mesiaci?",
+    "a": [
+      "Veliteľský modul",
+      "Servisný modul",
+      "Lunárny modul",
+      "Tretí stupeň Saturnu V"
+    ],
+    "c": 2,
+    "why": "Na povrch Mesiaca zostupoval lunárny modul (LM). Veliteľský a servisný modul zostávali na obežnej dráhe Mesiaca.",
+    "src": [
+      [
+        "NASA – Apollo",
+        "https://www.nasa.gov/the-apollo-program/"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "cat": "Kozmonautika",
+    "q": "Ktorá sonda ako prvá uskutočnila úspešný prelet okolo Pluta?",
+    "a": [
+      "Voyager 2",
+      "Cassini",
+      "New Horizons",
+      "Pioneer 10"
+    ],
+    "c": 2,
+    "why": "Sonda New Horizons preletela okolo Pluta 14. júla 2015 a poskytla prvé detailné snímky a merania tohto trpasličieho sveta.",
+    "src": [
+      [
+        "NASA – New Horizons",
+        "https://science.nasa.gov/mission/new-horizons/"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "cat": "Asteroidy",
+    "q": "Čo je Yarkovského efekt?",
+    "a": [
+      "Zmena dráhy telesa vplyvom anizotropného tepelného vyžarovania",
+      "Zrážka dvoch asteroidov",
+      "Magnetické zachytenie kométy",
+      "Rozpad asteroidu slapovými silami"
+    ],
+    "c": 0,
+    "why": "Rotujúce malé teleso absorbuje slnečné žiarenie a vyžaruje teplo oneskorene. Výsledná malá sila môže dlhodobo meniť jeho obežnú dráhu.",
+    "src": [
+      [
+        "NASA – Small Bodies",
+        "https://science.nasa.gov/solar-system/asteroids/"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "cat": "Mesiace",
+    "q": "Prečo má Jupiterov mesiac Io takú intenzívnu sopečnú činnosť?",
+    "a": [
+      "Má hustú atmosféru",
+      "Je silno slapovo zahrievaný gravitačnými interakciami s Jupiterom a ďalšími mesiacmi",
+      "Dopadá naň viac slnečného svetla než na Zem",
+      "Má tekuté vodíkové oceány"
+    ],
+    "c": 1,
+    "why": "Mení sa jeho dráha a slapové deformácie spôsobujú vnútorné trenie, ktoré vytvára veľké množstvo tepla.",
+    "src": [
+      [
+        "NASA – Io",
+        "https://science.nasa.gov/jupiter/moons/io/"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "cat": "Gravitácia",
+    "q": "Čo opisuje Schwarzschildov polomer?",
+    "a": [
+      "Vzdialenosť Mesiaca od Zeme",
+      "Polomer horizontu udalostí nerotujúcej nenabitej čiernej diery",
+      "Polomer galaxie",
+      "Dosah slnečného vetra"
+    ],
+    "c": 1,
+    "why": "Schwarzschildov polomer je polomer, pri ktorom by sa pre nerotujúcu nenabitú hmotu vytvoril horizont udalostí čiernej diery.",
+    "src": [
+      [
+        "NASA – Black Holes",
+        "https://science.nasa.gov/universe/black-holes/"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "cat": "Historické osobnosti",
+    "q": "Kto formuloval tri zákony pohybu planét, ktoré opisujú eliptické dráhy a meniacu sa rýchlosť planét?",
+    "a": [
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Edwin Hubble",
+      "Tycho Brahe"
+    ],
+    "c": 1,
+    "why": "Johannes Kepler na základe pozorovaní Tycha Braheho formuloval tri zákony planetárneho pohybu.",
+    "src": [
+      [
+        "NASA – Kepler",
+        "https://science.nasa.gov/"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "cat": "Optika a ďalekohľady",
+    "q": "Aký je hlavný optický rozdiel medzi refraktorom a Newtonovým reflektorom?",
+    "a": [
+      "Refraktor používa objektívové šošovky, Newton zrkadlá",
+      "Refraktor používa iba zrkadlá",
+      "Newton používa iba šošovky",
+      "Oba používajú výhradne hranoly"
+    ],
+    "c": 0,
+    "why": "Refraktor sústreďuje svetlo sústavou šošoviek. Newtonov reflektor používa primárne konkávne zrkadlo a malé diagonálne sekundárne zrkadlo.",
+    "src": [
+      [
+        "OpenStax Astronomy",
+        "https://openstax.org/details/books/astronomy-2e"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "cat": "Optika a ďalekohľady",
+    "q": "Čo sa pri rovnakom priemere objektívu spravidla stane so svetelnosťou fotografickej sústavy, keď sa zmenší pomer f/?",
+    "a": [
+      "Sústava je pomalšia",
+      "Na snímač dopadá viac svetla na jednotku plochy za rovnaký čas",
+      "Zväčší sa priemer zrkadla",
+      "Zmení sa spektrálna trieda hviezd"
+    ],
+    "c": 1,
+    "why": "Menšie clonové číslo f/ znamená rýchlejšiu fotografickú sústavu. Pri rovnakých podmienkach poskytne vyššiu plošnú intenzitu obrazu.",
+    "src": [
+      [
+        "OpenStax Astronomy",
+        "https://openstax.org/details/books/astronomy-2e"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "cat": "Súhvezdia",
+    "q": "Prečo sú súhvezdia užitočné, hoci ich hviezdy často nie sú fyzicky blízko seba?",
+    "a": [
+      "Hviezdy v súhvezdí majú vždy rovnaký vek",
+      "Sú to dohodnuté oblasti oblohy, ktoré pomáhajú orientácii",
+      "Všetky hviezdy sú gravitačne viazané",
+      "Súhvezdia určujú vzdialenosť hviezd"
+    ],
+    "c": 1,
+    "why": "Súhvezdia sú historicky pomenované obrazce a dnes aj presne vymedzené oblasti nebeskej sféry. Hviezdy v nich môžu byť v úplne rozdielnych vzdialenostiach.",
+    "src": [
+      [
+        "IAU – Constellations",
+        "https://www.iau.org/public/themes/constellations/"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "cat": "Súradnicová astronómia",
+    "q": "Čo vyjadruje rektascenzia (RA) v rovníkovom súradnicovom systéme?",
+    "a": [
+      "Uhlovú vzdialenosť od zenitu",
+      "Súradnicu meranú pozdĺž nebeského rovníka od jarného bodu",
+      "Výšku nad miestnym horizontom",
+      "Vzdialenosť od Slnka"
+    ],
+    "c": 1,
+    "why": "Rektascenzia je uhlová súradnica pozdĺž nebeského rovníka, tradične vyjadrovaná v hodinách, minútach a sekundách.",
+    "src": [
+      [
+        "ESA – Astronomy basics",
+        "https://www.esa.int/Science_Exploration/Space_Science"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "cat": "Družice a sondy",
+    "q": "Čo je hlavnou úlohou družice Gaia?",
+    "a": [
+      "Mapovať polohu, vzdialenosti a pohyby hviezd v Mliečnej ceste",
+      "Sledovať iba počasie na Zemi",
+      "Hľadať život na Marse",
+      "Prenášať televízny signál"
+    ],
+    "c": 0,
+    "why": "Misia Gaia vytvára mimoriadne presnú trojrozmernú mapu Mliečnej cesty meraním polôh, paralax a vlastných pohybov hviezd.",
+    "src": [
+      [
+        "ESA – Gaia",
+        "https://www.esa.int/Science_Exploration/Space_Science/Gaia"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "cat": "Astrofotografia",
+    "q": "Prečo sa pri fotografovaní deep-sky objektov používajú kalibračné dark snímky?",
+    "a": [
+      "Na odstránenie svetelného znečistenia úplne",
+      "Na charakterizovanie tepelného signálu a hot pixelov pri podobnej expozícii a teplote",
+      "Na zvýšenie ohniskovej vzdialenosti",
+      "Na zaostrenie hviezd"
+    ],
+    "c": 1,
+    "why": "Dark snímky zaznamenávajú signál snímača bez dopadajúceho svetla pri zodpovedajúcej expozícii, teplote a nastavení gainu. Pomáhajú odstrániť tepelný signál a hot pixely.",
+    "src": [
+      [
+        "Siril documentation",
+        "https://siril.org/"
+      ],
+      [
+        "ZWO – ASI cameras",
+        "https://www.zwoastro.com/"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "cat": "Čierne diery",
+    "q": "Čo je horizont udalostí čiernej diery?",
+    "a": [
+      "Pevný povrch čiernej diery",
+      "Hranica, za ktorou sa signál už nemôže dostať k vzdialenému pozorovateľovi",
+      "Oblasť najvyššej teploty akrečného disku",
+      "Dráha najbližšej planéty"
+    ],
+    "c": 1,
+    "why": "Horizont udalostí je kauzálna hranica. Z vnútra nej sa podľa klasickej všeobecnej relativity nemôže dostať von ani svetlo.",
+    "src": [
+      [
+        "NASA – Black Holes",
+        "https://science.nasa.gov/universe/black-holes/"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "cat": "Galaxie",
+    "q": "Čo je aktívne galaktické jadro (AGN)?",
+    "a": [
+      "Jadro galaxie bez hviezd",
+      "Energetická centrálna oblasť napájaná akréciou hmoty na supermasívnu čiernu dieru",
+      "Oblasť výhradne mladých hviezd",
+      "Zvyšok po zrážke dvoch planét"
+    ],
+    "c": 1,
+    "why": "AGN je žiarivé jadro galaxie, ktorého energiu dodáva najmä akrécia plynu na supermasívnu čiernu dieru. Môže vyžarovať naprieč elektromagnetickým spektrom.",
+    "src": [
+      [
+        "NASA – Active Galaxies",
+        "https://science.nasa.gov/universe/galaxies/"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "cat": "Kozmonautika",
+    "q": "Ktorý let bol prvým pilotovaným pristátím človeka na Mesiaci?",
+    "a": [
+      "Apollo 8",
+      "Apollo 10",
+      "Apollo 11",
+      "Apollo 13"
+    ],
+    "c": 2,
+    "why": "Apollo 11 pristálo na Mesiaci 20. júla 1969 podľa amerického času; Neil Armstrong a Buzz Aldrin vystúpili na povrch, Michael Collins zostal na obežnej dráhe.",
+    "src": [
+      [
+        "NASA – Apollo 11",
+        "https://www.nasa.gov/mission/apollo-11/"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "cat": "Mesiace",
+    "q": "Ktorý Saturnov mesiac má hustú atmosféru a jazerá kvapalných uhľovodíkov na povrchu?",
+    "a": [
+      "Enceladus",
+      "Titan",
+      "Mimas",
+      "Iapetus"
+    ],
+    "c": 1,
+    "why": "Titan má hustú atmosféru prevažne z dusíka a na povrchu jazerá a moria metánu a etánu.",
+    "src": [
+      [
+        "NASA – Titan",
+        "https://science.nasa.gov/saturn/moons/titan/"
+      ]
+    ]
+  }
+]
